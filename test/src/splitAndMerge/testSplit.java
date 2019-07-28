@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class testSplit {
 	public static void main(String[] args) throws FileNotFoundException, IOException {
